@@ -5,6 +5,11 @@
   "lazyLoadTabs": false,
   "websites": [
     {
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&kiosk=1",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 10
+    },
+    {
       "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=3&kiosk=1",
       "duration": 20,
       "tabReloadIntervalSeconds": 10
