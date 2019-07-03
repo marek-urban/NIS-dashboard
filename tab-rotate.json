@@ -18,6 +18,11 @@
       "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=6&kiosk=1",
       "duration": 20,
       "tabReloadIntervalSeconds": 10
+    },
+    {
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=9&kiosk=1",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 10
     }
   ]
 }
