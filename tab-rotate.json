@@ -30,7 +30,27 @@
       "tabReloadIntervalSeconds": 10
     },
     {
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=12&kiosk=1",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 10
+    },
+    {
       "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=11&kiosk=1",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 10
+    },
+    {
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=13&kiosk=1",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 10
+    },
+    {
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=14&kiosk=1",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 10
+    },
+    {
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=15&kiosk=1",
       "duration": 30,
       "tabReloadIntervalSeconds": 10
     }
