@@ -5,12 +5,12 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=3&kiosk=1",
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=3&fullscreen=1",
       "duration": 40,
       "tabReloadIntervalSeconds": 40
     },
     {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=5&kiosk=1",
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=5&fullscreen=1",
       "duration": 40,
       "tabReloadIntervalSeconds": 40
     },
@@ -30,12 +30,12 @@
       "tabReloadIntervalSeconds": 20
     },
     {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=1&kiosk=1",
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=1&fullscreen=1",
       "duration": 40,
       "tabReloadIntervalSeconds": 40
     },
     {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=4&kiosk=1",
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=4&fullscreen=1",
       "duration": 40,
       "tabReloadIntervalSeconds": 40
     },
