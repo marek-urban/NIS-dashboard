@@ -48,6 +48,11 @@
       "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=14&kiosk=1",
       "duration": 20,
       "tabReloadIntervalSeconds": 20
+    },
+    {
+      "url": "file:///C:/Shared/spc20_4K.png",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 20
     }
   ]
 }
