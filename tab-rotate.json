@@ -5,69 +5,49 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=19&kiosk=1",
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=3&kiosk=1",
       "duration": 40,
-      "tabReloadIntervalSeconds": 10
-    },
-    {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=17&kiosk=1",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 10
-    },
-    {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=20&kiosk=1",
-      "duration": 40,
-      "tabReloadIntervalSeconds": 10
-    },
-    {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=21&kiosk=1",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 10
-    },
-    {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=18&kiosk=1",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 10
+      "tabReloadIntervalSeconds": 40
     },
     {
       "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=5&kiosk=1",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 10
+      "duration": 40,
+      "tabReloadIntervalSeconds": 40
     },
     {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=9&kiosk=1",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 10
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=10&kiosk=1",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 20
     },
     {
       "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=11&kiosk=1",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 10
+      "duration": 20,
+      "tabReloadIntervalSeconds": 20
     },
     {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=6&kiosk=1",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 10
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=12&kiosk=1",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 20
     },
     {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=16&kiosk=1",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 10
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=1&kiosk=1",
+      "duration": 40,
+      "tabReloadIntervalSeconds": 40
+    },
+    {
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=4&kiosk=1",
+      "duration": 40,
+      "tabReloadIntervalSeconds": 40
     },
     {
       "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=13&kiosk=1",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 10
+      "duration": 30,
+      "tabReloadIntervalSeconds": 30
     },
     {
       "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=14&kiosk=1",
       "duration": 20,
-      "tabReloadIntervalSeconds": 10
-    },
-    {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=15&kiosk=1",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 10
+      "tabReloadIntervalSeconds": 20
     }
   ]
 }
