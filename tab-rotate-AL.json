@@ -30,12 +30,12 @@
       "tabReloadIntervalSeconds": 20
     },
     {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=1&fullscreen=1",
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=23&fullscreen=1",
       "duration": 40,
       "tabReloadIntervalSeconds": 40
     },
     {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=4&fullscreen=1",
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=24&fullscreen=1",
       "duration": 40,
       "tabReloadIntervalSeconds": 40
     },
