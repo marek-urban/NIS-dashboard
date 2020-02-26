@@ -49,6 +49,11 @@
       "duration": 20,
       "tabReloadIntervalSeconds": 20
     },
+	{
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=22&fullscreen=1",
+      "duration": 40,
+      "tabReloadIntervalSeconds": 40
+    },
     {
       "url": "file:///C:/Shared/spc20_4K.png",
       "duration": 20,
