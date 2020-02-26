@@ -5,49 +5,34 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=3&fullscreen=1",
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=18&fullscreen=1",
       "duration": 40,
       "tabReloadIntervalSeconds": 40
     },
     {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=5&fullscreen=1",
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=21&fullscreen=1",
       "duration": 40,
       "tabReloadIntervalSeconds": 40
     },
     {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=10&kiosk=1",
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=17&kiosk=1",
       "duration": 20,
       "tabReloadIntervalSeconds": 20
     },
     {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=11&kiosk=1",
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=16&kiosk=1",
       "duration": 20,
       "tabReloadIntervalSeconds": 20
     },
-    {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=12&kiosk=1",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 20
-    },
-    {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=1&fullscreen=1",
+	{
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=19&kiosk=1",
       "duration": 40,
       "tabReloadIntervalSeconds": 40
     },
     {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=4&fullscreen=1",
+      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=20&kiosk=1",
       "duration": 40,
       "tabReloadIntervalSeconds": 40
-    },
-    {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=13&kiosk=1",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 30
-    },
-    {
-      "url": "https://zabbix.ourdevops.io/zabbix.php?action=dashboard.view&dashboardid=14&kiosk=1",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 20
     },
     {
       "url": "file:///C:/Shared/spc20_4K.png",
