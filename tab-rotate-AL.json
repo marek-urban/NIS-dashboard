@@ -54,6 +54,11 @@
       "duration": 40,
       "tabReloadIntervalSeconds": 40
     },
+	{
+      "url": "https://nordlicht.calamari.io/absence/main-new.do#/absence/absence/calendar.do",
+      "duration": 40,
+      "tabReloadIntervalSeconds": 40
+    },
     {
       "url": "file:///C:/Shared/spc20_4K.png",
       "duration": 20,
